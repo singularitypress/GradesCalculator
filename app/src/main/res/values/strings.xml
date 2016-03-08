@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GradesCalculator</string>
+    <string name="action_settings">About</string>
+    <string name="min_settings">MIN</string>
+    <string name="avg_settings">AVG</string>
+    <string name="max_settings">MAX</string>
+    <string name="title_activity_average_display">AverageDisplay</string>
+
+    <string name="about_text">Look into our school for a variety of math programs: http://www.senecacollege.ca</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
